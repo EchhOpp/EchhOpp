@@ -16,6 +16,6 @@
 
 🚀 * 🚀 * 🚀 * 👩🏻‍🚀
 
-[![Nguyễn Thành Luân's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EchhOpp&show_icons=true&theme=merko&count_private=true)](https://github.com/EchhOpp)
+[![EchhOpp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EchhOpp&show_icons=true&theme=merko&count_private=true)](https://github.com/EchhOpp)
 
-[![Nguyễn Thành Luân's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EchhOpp&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![EchhOpp's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EchhOpp&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
