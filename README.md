@@ -6,7 +6,7 @@
 - <img align="center" src="./images/icon/meta.png" title="Facebook" alt="Facebook" height="20" /> [Facebook](https://www.facebook.com/ngn.thluan285)
 - <img align="center" src="./images/icon/mail.webp" title="Gmail" alt="Gmail" height="20" /> [Email](mailto:ngthluann.org@gmail.com)
 
-🖥️ I am a fullstack developer with a passion for building mobile and web applications. Currently, I am focusing on developing apps for both Android and iOS platforms.
+🖥️ I am a backend developer with a passion for building mobile and web applications. Currently, I am focusing on developing apps for both Android and iOS platforms.
 
 ✍️ If you want to connect or learn more about my work, feel free to follow me on [GitHub](https://github.com/EchhOpp) or reach out via email.
 
