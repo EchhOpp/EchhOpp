@@ -1,21 +1,53 @@
-# About me - EchOp
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Nguyen%20Thanh%20Luan&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer&descSize=18&descAlignY=58" />
 
-👋 Hey everyone, I'm ***[Nguyễn Thành Luân](https://www.facebook.com/ngn.thluan285)***  
-**✨ Backend Developer✨**
+<h3 align="center">Java Backend Developer</h3>
 
-- <img align="center" src="./images/icon/meta.png" title="Facebook" alt="Facebook" height="20" /> [Facebook](https://www.facebook.com/ngn.thluan285)
-- <img align="center" src="./images/icon/mail.webp" title="Gmail" alt="Gmail" height="20" /> [Email](mailto:ngthluann.org@gmail.com)
+<p align="center">
+  I enjoy building clean, reliable, and scalable backend systems.
+  <br />
+  Currently working with Java, Spring Boot, PostgreSQL, and REST APIs.
+</p>
 
-🖥️ I am a backend developer with a passion for building mobile and web applications. Currently, I am focusing on developing apps for both Android and iOS platforms.
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ngthluann.org@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/EchhOpp">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-✍️ If you want to connect or learn more about my work, feel free to follow me on [GitHub](https://github.com/EchhOpp) or reach out via email.
+---
 
-## GitHub Streak Stats
+### Tech Stack
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EchhOpp&theme=merko&border_radius=10)](https://git.io/streak-stats)
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+</p>
 
-🚀 * 🚀 * 🚀 * 👩🏻‍🚀
+### GitHub Activity
 
-[![EchhOpp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EchhOpp&show_icons=true&theme=merko&count_private=true)](https://github.com/EchhOpp)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=EchhOpp&theme=merko&hide_border=true&border_radius=10" />
+</p>
 
-[![EchhOpp's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EchhOpp&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EchhOpp&theme=github_dark" />
+</p>
+
+---
+
+<p align="center">
+  Thanks for stopping by 🚀
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=90&section=footer" />
